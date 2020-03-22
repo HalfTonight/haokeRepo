@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e20a0068-7049-4553-93fc-65af73aead8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZQetiqy9CNfmYIy8cMuz5MGS8V" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8.0_221" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../itcast-haoke-manage-web" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\haoke\haoke-server\haoke-server-house-resource" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ll.p3143.haoke" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ll.p3143.haoke.dubbo.server.service.impl" />
+      <recent name="ll.p3143.haoke.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\haoke\haoke-server\haoke-server-house-resource\haoke-server-house-resource-services\src\main\java\ll\p3143\haoke\dubbo\server\service" />
+      <recent name="D:\study\haoke\haoke-server\haoke-server-house-resource\haoke-server-house-resource-services\src\main\java\ll\p3143\haoke\dubbo" />
+      <recent name="D:\study\haoke\haoke-api\src\main\java\ll\p3143\haoke\dubbo" />
+      <recent name="D:\study\haoke\haoke-server\haoke-server-house-resource\haoke-server-house-resource-interface\src\main\java\ll\p3143\haoke\dubbo" />
+      <recent name="D:\study\haoke\haoke-server\haoke-server-house-resource\haoke-server-house-resource-services\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HaokeApiApplication">
+    <configuration name="Hello (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ll.Hello" />
+      <module name="haoke-server-house-resource-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HRTest.save" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="haoke-server-house-resource-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ll.p3143.haoke.dubbo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ll.p3143.haoke" />
+      <option name="MAIN_CLASS_NAME" value="ll.p3143.haoke.HRTest" />
+      <option name="METHOD_NAME" value="save" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HRTest.save2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="haoke-server-house-resource-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ll.p3143.haoke.dubbo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ll.p3143.haoke" />
+      <option name="MAIN_CLASS_NAME" value="ll.p3143.haoke.HRTest" />
+      <option name="METHOD_NAME" value="save2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="haoke-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ll.p3143.haoke.dubbo.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ll.p3143.haoke.dubbo.api.DubboApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboProvider" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="haoke-server-house-resource-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ll.p3143.haoke.dubbo.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ll.p3143.haoke.dubbo.server.DubboProvider" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HaokeApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="true">
+      <module name="haoke-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ll.p3143.haoke.dubbo.api.HaokeApiApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HaokeHRApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="true">
+      <module name="haoke-server-house-resource-services" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ll.p3143.haoke.HaokeHRApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HaokeHouseResourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="haoke-server-house-resource" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HaokeRegisterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="haoke-register" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ll.p3143.haoke.HaokeRegisterApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Hello (1)" />
+      <item itemvalue="JUnit.HRTest.save" />
+      <item itemvalue="JUnit.HRTest.save2" />
+      <item itemvalue="Spring Boot.HaokeHouseResourceApplication" />
+      <item itemvalue="Spring Boot.HaokeHRApplication" />
+      <item itemvalue="Spring Boot.HaokeRegisterApplication" />
+      <item itemvalue="Spring Boot.HaokeApiApplication" />
+      <item itemvalue="Spring Boot.DubboProvider" />
+      <item itemvalue="Spring Boot.DubboApiApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DubboProvider" />
+        <item itemvalue="Spring Boot.DubboApiApplication" />
+        <item itemvalue="JUnit.HRTest.save" />
+        <item itemvalue="JUnit.HRTest.save2" />
+        <item itemvalue="Application.Hello (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e20a0068-7049-4553-93fc-65af73aead8b" name="Default Changelist" comment="" />
+      <created>1584775961995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584775961995</updated>
+      <workItem from="1584775965643" duration="6760000" />
+      <workItem from="1584782952019" duration="1378000" />
+      <workItem from="1584784353769" duration="3189000" />
+      <workItem from="1584789958439" duration="5417000" />
+      <workItem from="1584835716737" duration="6099000" />
+      <workItem from="1584848230110" duration="5009000" />
+      <workItem from="1584853987023" duration="9459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1584854604122">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1584854604122" />
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584842531150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584842531150" />
+    <state x="491" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584791127238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1584791127238" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1584857867130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584857867130" />
+    <state x="498" y="200" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584794878485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="200" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1584794878485" />
+    <state x="620" y="305" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584783378238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="305" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1584783378238" />
+    <state x="382" y="341" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584854993145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="382" y="341" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1584854993145" />
+    <state x="294" y="279" width="948" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584792657008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="294" y="279" width="948" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1584792657008" />
+    <state x="867" y="211" key="FileChooserDialogImpl" timestamp="1584868818387">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="867" y="211" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584868818387" />
+    <state width="1493" height="309" key="GridCell.Tab.0.bottom" timestamp="1584869285684">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="309" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584869285684" />
+    <state width="1493" height="309" key="GridCell.Tab.0.center" timestamp="1584869285683">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="309" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584869285683" />
+    <state width="1493" height="309" key="GridCell.Tab.0.left" timestamp="1584869285683">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="309" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584869285683" />
+    <state width="1493" height="309" key="GridCell.Tab.0.right" timestamp="1584869285684">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="309" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584869285684" />
+    <state width="1493" height="309" key="GridCell.Tab.1.bottom" timestamp="1584869451195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="309" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584869451195" />
+    <state width="1493" height="309" key="GridCell.Tab.1.center" timestamp="1584869451194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="309" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584869451194" />
+    <state width="1493" height="309" key="GridCell.Tab.1.left" timestamp="1584869451194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="309" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584869451194" />
+    <state width="1493" height="309" key="GridCell.Tab.1.right" timestamp="1584869451195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="309" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584869451195" />
+    <state width="1493" height="309" key="GridCell.Tab.2.bottom" timestamp="1584869285542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="309" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584869285542" />
+    <state width="1493" height="309" key="GridCell.Tab.2.center" timestamp="1584869285541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="309" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1584869285541" />
+    <state width="1493" height="309" key="GridCell.Tab.2.left" timestamp="1584869285541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="309" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1584869285541" />
+    <state width="1493" height="309" key="GridCell.Tab.2.right" timestamp="1584869285541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="309" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1584869285541" />
+    <state x="408" y="116" key="NewModule_or_Project.wizard" timestamp="1584791606603">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="116" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1584791606603" />
+    <state x="432" y="0" key="SettingsEditor" timestamp="1584790324308">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="432" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584790324308" />
+    <state x="356" y="135" key="new project wizard" timestamp="1584791482112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="135" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584791482112" />
+    <state x="472" y="45" key="refactoring.ChangeSignatureDialog" timestamp="1584858732974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="472" y="45" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1584858732974" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584840437870">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584840437870" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/haoke-api/src/main/java/ll/p3143/haoke/dubbo/api/service/ApiService.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+#spring:
+#  application:
+#    name: resource-service
+#  datasource:
+#    url: jdbc:mysql:///haoke
+#    username: root
+#    password: 123456
+#    driver-class-name: com.mysql.jdbc.Driver
+#dubbo:
+#  scan:
+#    base-packages: ll.p3143.haoke.dubbo.server.api
+#  application:
+#    name: dubbo-resource-service
+#  protocol:
+#    port: 20880
+#    name: dubbo
+#  registry:
+#    address: zookeeper://192.168.11.131:2181
+#    client: zkclient
+#server:
+#  port: 8081
